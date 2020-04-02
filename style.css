@@ -1,0 +1,36 @@
+body{
+  background-color: #272837;
+}
+#main{
+  width: 700px;
+  margin:0 auto;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+div#title{
+  font-size: 32px;
+  color:white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+#title img{
+  width: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+ span.bitcoin{
+   color:#f39318;
+   margin-left: 10px;
+ }
+
+ a.link{
+  color:#cacaca;
+  margin-right: 10px;
+  font-size: 24px;
+ }
+ .link-wrapper{
+   text-align: center;
+ }
